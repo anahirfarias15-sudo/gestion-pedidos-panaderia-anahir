@@ -28,3 +28,8 @@ Declaración de uso de IA
 Se utilizó ChatGPT como ayuda para organizar y redactar partes de este trabajo.
 Las respuestas fueron revisadas y adaptadas a las necesidades de Panadería Anahir. Se comprobó que la información fuera correcta y que las funciones propuestas todavía no están implementadas.
 La IA fue una herramienta de apoyo. La revisión y las decisiones finales fueron realizadas por la estudiante.
+
+Tablero de seguimiento
+
+El proyecto se organiza mediante un tablero de GitHub Projects, donde se encuentran las historias de usuario y sus estados.
+Ver tablero de GitHub Projects
