@@ -14,9 +14,17 @@ Git para registrar los cambios realizados en los archivos.
 Estado del proyecto
 En desarrollo académico, como parte de la Entrega N.º 4 de Organización Empresarial.
 
+
 Indicadores de desempeño
+
 Para evaluar el funcionamiento del módulo de Gestión de Pedidos y Producción, se establecen los siguientes indicadores:
 Registro de pedidos: alcanzar el registro del 100 % de los pedidos recibidos durante el período de prueba.
 Tiempo de consulta: permitir consultar los datos de un pedido y sus cantidades en un máximo de 10 minutos.
 Organización de la producción: organizar el 100 % de los pedidos registrados según producto, cantidad y horario de entrega.
 Estos indicadores permitirán evaluar si el sistema contribuye a mejorar la organización de los pedidos y la planificación de la producción de Panadería Anahir.
+
+Declaración de uso de IA
+
+Se utilizó ChatGPT como ayuda para organizar y redactar partes de este trabajo.
+Las respuestas fueron revisadas y adaptadas a las necesidades de Panadería Anahir. Se comprobó que la información fuera correcta y que las funciones propuestas todavía no están implementadas.
+La IA fue una herramienta de apoyo. La revisión y las decisiones finales fueron realizadas por la estudiante.
