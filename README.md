@@ -13,3 +13,10 @@ GitHub para el control de versiones y la documentación del proyecto.
 Git para registrar los cambios realizados en los archivos.
 Estado del proyecto
 En desarrollo académico, como parte de la Entrega N.º 4 de Organización Empresarial.
+
+Indicadores de desempeño
+Para evaluar el funcionamiento del módulo de Gestión de Pedidos y Producción, se establecen los siguientes indicadores:
+Registro de pedidos: alcanzar el registro del 100 % de los pedidos recibidos durante el período de prueba.
+Tiempo de consulta: permitir consultar los datos de un pedido y sus cantidades en un máximo de 10 minutos.
+Organización de la producción: organizar el 100 % de los pedidos registrados según producto, cantidad y horario de entrega.
+Estos indicadores permitirán evaluar si el sistema contribuye a mejorar la organización de los pedidos y la planificación de la producción de Panadería Anahir.
