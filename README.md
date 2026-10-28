@@ -32,4 +32,4 @@ La IA fue una herramienta de apoyo. La revisión y las decisiones finales fueron
 Tablero de seguimiento
 
 El proyecto se organiza mediante un tablero de GitHub Projects, donde se encuentran las historias de usuario y sus estados.
-Ver tablero de GitHub Projects
+[Ver tablero de GitHub Projects](https://github.com/users/anahirfarias15-sudo/projects/1)
