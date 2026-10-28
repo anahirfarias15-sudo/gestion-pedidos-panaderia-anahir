@@ -33,3 +33,11 @@ Tablero de seguimiento
 
 El proyecto se organiza mediante un tablero de GitHub Projects, donde se encuentran las historias de usuario y sus estados.
 [Ver tablero de GitHub Projects](https://github.com/users/anahirfarias15-sudo/projects/1)
+
+
+Diagrama BPMN
+
+El diagrama representa el proceso de gestión de pedidos de Panadería Anahir, desde la recepción del pedido por WhatsApp hasta la preparación, verificación y entrega al cliente. Incluye decisiones para gestionar datos incompletos y pedidos que requieren correcciones.
+
+BPMN editable: https://github.com/anahirfarias15-sudo/gestion-pedidos-panaderia-anahir/blob/main/diagram.bpmn
+Diagrama como imagen: https://github.com/anahirfarias15-sudo/gestion-pedidos-panaderia-anahir/blob/main/diagram.svg
