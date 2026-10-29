@@ -1,5 +1,9 @@
 Gestión de Pedidos y Producción – Panadería Anahir
 
+Materia: Organización Empresarial
+Trabajo practico : Entrega n°4 - Procesos, trabajo colaborativo y Control Integrador
+Estudiante: Micaela Anahir Farias
+
 Descripción del sistema
 El proyecto consiste en desarrollar un módulo de software para la Gestión de Pedidos y Producción de Panadería Anahir.
 Actualmente, los pedidos se reciben principalmente por WhatsApp, lo que requiere revisar manualmente las conversaciones para identificar los productos, las cantidades solicitadas y los horarios de entrega.
